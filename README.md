@@ -5,8 +5,6 @@ I am Santhoshi, a software engineer. I like solving problems and learning techni
 
 Want to know more about me? Keep reading ..
 
-- 🌱 I’m currently learning Deep learning. CNN to be exact :p
-
 - 👯 I’m looking to collaborate on projects that can be fun to build. Maybe a hackathon? Or something you want to automate? If you have any ideas and want to collaborate, sign me up!
 
 - 💬 Ask me about Machine learning and Python. We can learn from each other 🤗
