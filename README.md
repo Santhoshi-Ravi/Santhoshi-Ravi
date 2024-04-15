@@ -10,7 +10,7 @@ Want to know more about me? Keep reading ..
 - 💬 Ask me about Machine learning and Python. We can learn from each other 🤗
 
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/santhoshi-ravichandran/)
-- 🔬 [Kaggle Profile] (https://www.kaggle.com/santhoshi2912)
+- 🔬 [Kaggle Profile](https://www.kaggle.com/santhoshi2912)
 
 - Fun fact: I'm a big fan of reading 📖. So if you have any suggestions, do let me know!!
 <!--
