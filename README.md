@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Glad you decided to pop into my github page :) 
-I am Santhoshi, a software engineer. I like solving problems and learning techniques to get better at solving problems. 
+I am Santhoshi, an AI researcher. I like solving problems and learning techniques to get better at solving problems. 
 
 Want to know more about me? Keep reading ..
 
